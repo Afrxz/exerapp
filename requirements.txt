@@ -1,6 +1,6 @@
 cv2
 numpy
-import av
+av
 ultralytics
 mediapipe
 streamlit_webrtc
